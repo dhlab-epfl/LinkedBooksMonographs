@@ -1,6 +1,6 @@
 # Description of the dataset
 The file `citation_data.json` contains a list of dictionary items, each one corresponding to a monograph (citing, cited or both).
-The whole dataset comprises 37626 monographs, and contains 71653 citations among them. Citations are unique to two monographs, i.e. there are not multiple citations between the same two monographs.
+The whole dataset comprises 37626 monographs, and contains 71650 citations among them. Citations are unique to two monographs, i.e. there are not multiple citations between the same two monographs.
 Note that the age of every citation can be determined using the year of publication of the citing monograph. Both citing and cited monographs are all included in the dataset.
 
 # Fields
@@ -10,6 +10,7 @@ Note that the age of every citation can be determined using the year of publicat
    * `cited` a list of identifiers of citing monographs
    * `citing` a list of identifiers of citing monographs
    * `dewey_classifications` a list of dict objects, containing Dewey library classifications, if available
+   * `id` an Integer, internal id of the monograph. This is the identifier used for graphs.
    * `is_cited` a boolean field, at True if the monograph has been cited at least once
    * `is_citing` a boolean field, at True if the list of references for the monograph has been extracted
    * `lb` a boolean field, at True if the monograph was digitised as part of the Linked Books project
@@ -48,6 +49,7 @@ Monograph id: `IEI0084326`
    'dec': 'GRUPPI SECONDO IL SESSO. DONNE. GRECIA ANTICA',
    'ed': '19'},
   {'cdd': '305.40938', 'dec': 'DONNE. Grecia antica', 'ed': '20'}],
+ 'id': 20932,
  'is_cited': True,
  'is_citing': False,
  'lb': False,
