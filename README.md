@@ -1,5 +1,7 @@
 # LinkedBooksMonographs: Citations Dataset
 
+[![DOI](https://zenodo.org/badge/79789632.svg)](https://zenodo.org/badge/latestdoi/79789632)
+
 A dataset of citations extracted from monographs about the history of Venice, created in the context of the [LinkedBooks project](http://dhlab.epfl.ch/page-127959-en.html). 
 
 The creation of the dataset and its characteristics are discussed in the article: Colavizza, G., Romanello, M. and Kaplan, F. "The References of References: A Method to Enrich Humanities Library Catalogs with Citation Data." in *International Journal on Digital Libraries*, Springer (forthcoming 2017).
@@ -41,4 +43,16 @@ In alphabetical order we thank: the Ca’Foscari University Library System and t
 The project is supported by the Swiss National Fund, with grants 205121_159961 and P1ELP2_168489.
 
 ## Please cite as
-TBD
+
+Matteo Romanello and Giovanni Colavizza. (2017). dhlab-epfl/LinkedBooksMonographs: LinkedBooksMonographs (version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.266889
+
+    @misc{matteo_romanello_2017_266889,
+      author       = {Matteo Romanello and
+                      Giovanni Colavizza},
+      title        = {{dhlab-epfl/LinkedBooksMonographs: 
+                       LinkedBooksMonographs (version 1.0)}},
+      month        = feb,
+      year         = 2017,
+      doi          = {10.5281/zenodo.266889},
+      url          = {https://doi.org/10.5281/zenodo.266889}
+    }
