@@ -43,4 +43,16 @@ In alphabetical order we thank: the Ca’Foscari University Library System and t
 The project is supported by the Swiss National Fund, with grants 205121_159961 and P1ELP2_168489.
 
 ## Please cite as
-TBD
+
+Matteo Romanello, & Giovanni Colavizza. (2017). dhlab-epfl/LinkedBooksMonographs: LinkedBooksMonographs (version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.266889
+
+    @misc{matteo_romanello_2017_266889,
+      author       = {Matteo Romanello and
+                      Giovanni Colavizza},
+      title        = {{dhlab-epfl/LinkedBooksMonographs: 
+                       LinkedBooksMonographs (version 1.0)}},
+      month        = feb,
+      year         = 2017,
+      doi          = {10.5281/zenodo.266889},
+      url          = {https://doi.org/10.5281/zenodo.266889}
+    }
