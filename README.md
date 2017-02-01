@@ -41,4 +41,4 @@ In alphabetical order we thank: the Ca’Foscari University Library System and t
 The project is supported by the Swiss National Fund, with grants 205121_159961 and P1ELP2_168489.
 
 ## Please cite as
-Matteo Romanello and Giovanni Colavizza. (2017). dhlab-epfl/LinkedBooksMonographs: LinkedBooksMonographs (version 1.0) [Data set]. Zenodo: http://doi.org/10.5281/zenodo.266889.
+TBD
