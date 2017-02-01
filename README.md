@@ -4,9 +4,6 @@ A dataset of citations extracted from monographs about the history of Venice, cr
 
 The creation of the dataset and its characteristics are discussed in the article: Colavizza, G., Romanello, M. and Kaplan, F. "The References of References: A Method to Enrich Humanities Library Catalogs with Citation Data." in *International Journal on Digital Libraries*, Springer (forthcoming 2017).
 
-## Provenance
-TBD describe the dataset extraction, main results from the article
-
 ## Contents
 
 * `LICENCE` MIT
@@ -17,6 +14,7 @@ TBD describe the dataset extraction, main results from the article
     * [data_description.md](dataset/data_description.md) describes in detail the contents of `citation_data.json`
     * [directed_edges.csv](dataset/directed_edges.csv) the edgelist of the directed citation network. Sep. `;`, Quote `"`. Columns: `"Source";"Target";"Type";"Year"`
     * [directed_nodes.csv](dataset/directed_nodes.csv) the nodelist of the directed citation network. Sep. `;`, Quote `"`. Columns: `"Id";"Bid";"Title";"Author";"LB";"Year";"Consultation"`
+    * [list_citing_monographs.csv](dataset/list_citing_monographs.csv) the list of parsed monographs, from which citations were extracted. Sep. `;`, Quote `"`. Columns: `"id";"bid";"title";"author";"year";"extracted unique citations"`
     * [node_stats.csv](dataset/node_stats.csv) the in and outdegree distribution of each node in the network. Sep. `;`, Quote `"`. Columns: `"id";"bid";"title";"author";"lb";"year";"consultation";"indegree";"outdegree";"degree"`
     * [territorio.csv](dataset/territorio.csv) basic information about all libraries in the Italian Library System (e.g. library code, coordinates. etc.). This data is openly available at <http://opendata.anagrafe.iccu.sbn.it/territorio.zip>.
 
