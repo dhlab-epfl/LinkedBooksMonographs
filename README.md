@@ -2,9 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/79789632.svg)](https://zenodo.org/badge/latestdoi/79789632)
 
-A dataset of citations extracted from monographs about the history of Venice, created in the context of the [LinkedBooks project](http://dhlab.epfl.ch/page-127959-en.html). 
+A dataset of citations extracted from monographs about the history of Venice, created in the context of the [LinkedBooks project](http://dhlab.epfl.ch/page-127959-en.html).
 
-The creation of the dataset and its characteristics are discussed in the article: Colavizza, G., Romanello, M. and Kaplan, F. (2017). "The References of References: A Method to Enrich Humanities Library Catalogs with Citation Data." in *International Journal on Digital Libraries*: 1-11.
+The creation of the dataset and its characteristics are discussed in the article: Colavizza, G., Romanello, M. and Kaplan, F. (2017). "The References of References: A Method to Enrich Humanities Library Catalogs with Citation Data." in *International Journal on Digital Libraries*: 1-11. DOI: [10.1007/s00799-017-0210-1](dx.doi.org/10.1007/s00799-017-0210-1).
 
 ## Contents
 
