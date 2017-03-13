@@ -44,15 +44,4 @@ The project is supported by the Swiss National Fund, with grants 205121_159961 a
 
 ## Please cite as
 
-Matteo Romanello and Giovanni Colavizza. (2017). dhlab-epfl/LinkedBooksMonographs: LinkedBooksMonographs (version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.266889
-
-    @misc{matteo_romanello_2017_266889,
-      author       = {Matteo Romanello and
-                      Giovanni Colavizza},
-      title        = {{dhlab-epfl/LinkedBooksMonographs: 
-                       LinkedBooksMonographs (version 1.0)}},
-      month        = feb,
-      year         = 2017,
-      doi          = {10.5281/zenodo.266889},
-      url          = {https://doi.org/10.5281/zenodo.266889}
-    }
+Matteo Romanello and Giovanni Colavizza. (2017). dhlab-epfl/LinkedBooksMonographs: LinkedBooksMonographs (version 1.1) [Data set]. [![DOI](https://zenodo.org/badge/79789632.svg)](https://zenodo.org/badge/latestdoi/79789632)
